@@ -7,6 +7,13 @@ This code describes Rover's sensor modules.
 Imperial March (Buzzer), 
 Servo (Rover turret), Proximity sensor, Temp & Humidity 
 ********************************************
+Hardware:
+- Wemos D1 mini
+- DHT11
+- SG-90
+- HC-SR04
+- Passive Buzzer
+********************************************
 */
 
 /******************VARAS********************/

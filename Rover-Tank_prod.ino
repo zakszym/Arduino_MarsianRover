@@ -4,7 +4,11 @@ Szymon Żak - Marsian-Rover-Systems v1.3
 Git: https://github.com/zakszym/Arduino_MarsianRover.git
 ********************************************
 This code describes Rover's maneuvers and concers blynk joystick 
-and L298 H-Bridge module handling
+and bridge module handling
+********************************************
+Hardware:
+- Wemos D1 R1
+- L298 H-bridge
 ********************************************
 */
 
